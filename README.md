@@ -32,8 +32,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Grubhub](https://careers-grubhub.icims.com/jobs/11919/software-engineer-i/job) | Chicago, NY, Boston | New Grad SWE (Spring/Winter 2022) |
 |[Asana](https://boards.greenhouse.io/earlycareerprograms/jobs/3261084) | SF | New Graduate: Software Engineering (2022 start)
 |[The Voleon Group](https://jobs.lever.co/voleon/a059b894-b468-4fb1-a86f-36fb63afe3a5) | Berkeley | |
-|[SIG](https://careers.sig.com/job/5471/Software-Developer-Campus-2022-Start) | Bala Cynwyd, PA | |
-|[Goldman Sachs](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | New Analyst (SWE and others)|
+|[~~SIG~~](https://careers.sig.com/job/5471/Software-Developer-Campus-2022-Start) | Bala Cynwyd, PA | |
+|[~~Goldman Sachs~~](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | Various | New Analyst (SWE and others)|
 |[Johnson & Johnson](https://jobs.jnj.com/jobs/2005853988W?lang=en-us&previousLocale=en-US) | Cincinnati | |
 |[Capital Group](https://jobs.capitalgroup.com/job/Los-Angeles-New-Grad-Software-Development-Engineer-I-CA-90071/740361000/) | LA | |
 |[DRW](https://drw.com/careers/job/1881596) | Austin, Chicago | |
