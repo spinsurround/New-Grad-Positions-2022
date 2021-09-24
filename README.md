@@ -99,3 +99,35 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) | 
 |[~~Indeed~~](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) | US-Remote | SWE |
 |[Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) | Miami, Toronto | SWE, Leadership |
+|[Pinterest](https://www.pinterestcareers.com/job-search-results/?keyword=university%20grad%20swe&primary_category=University&job_type=Regular) | San Francisco, Palo Alto, Seattle, Toronto | SWE |
+|[Liberty Mutual](https://jobs.libertymutualgroup.com/job/13586540/2022-techstart-full-time-program-portsmouth-nh/) | Various | TechStart Full-Time Program | 
+|[Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=8473) | NYC | SWE |
+|[Accenture](https://www.accenture.com/us-en/careers/life-at-accenture/entry-level) | Multiple | Development programs - no separate links, click "Create Your Profile" |
+|[Becton Dickinson](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/BD-Software-Development-Program--SDP-_R-410769-1) | CA, NJ, MD | Software Development Program |
+|[Vise](https://boards.greenhouse.io/viseai/jobs/4695495003) | NY | SWE |
+|[Circle](https://boards.greenhouse.io/circle/jobs/5506852002) | Ithaca, US-remote | SWE (Backend), SWE (Frontend), Data Scientist |
+|[Jerry](https://jobs.lever.co/getjerry/3f85c5dd-4b36-4035-a8b6-e54c349054e8) | Toronto, SF | SWE |
+|[OneTrust](https://www.onetrust.com/careers/detail/?gh_jid=3331757) | Atlanta | Java Developer, QA, Consultant (search "New Grad" on search bar) |
+|[Cadence](https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/SAN-JOSE/Software-Engineer--New-College-Graduate_R35300) | San Jose | SWE |
+|[Redfin](https://www.redfin.com/careers/departments/emerging-talent) | Seattle | [SWE](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Full-Time-Opportunities-for-Recent-Graduates-OR-BootCamp-Graduates_40452), [Product Designer](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Product-Designer--Full-Time-Opportunities-for-Students-and-Recent-Graduates_41458), [Product Management](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Product-Manager--Full-Time-Opportunities-for-Students-and-Recent-Graduates_41361) |
+|[UBS](https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5131&PageType=JobDetails&jobid=239106#jobDetails=239106_5131) | Multiple (US, London, Hongkong, Singapore...) | Tech, Banking, Asset Management, Multiple |
+|[DraftKings](https://draftkings.wd1.myworkdayjobs.com/DraftKings/) | Boston | [Analyst](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Analyst--December-2021-and-2022-Grads-Only-_JR1637), [SWE](https://draftkings.wd1.myworkdayjobs.com/en-US/DraftKings/job/Boston-MA/Software-Engineer--December-2021-and-2022-Grads-Only-_JR1633) |
+|[Coursera](https://jobs.lever.co/coursera/97594f4e-0906-4f7f-b183-0cc9a0e0885f) | Mountain View, Toronto | SWE |
+|[Delta Airlines](https://delta.avature.net/careers/SearchJobs/associate%20software%20engineer) | Atlanta | Associate SWE |
+|[Plaid](https://plaid.com/careers/openings/all-departments/all-locations/?role=new%20grad) | NYC, SF, Salt Lake City | SWE |
+|[SeatGeek](https://seatgeek.com/jobs/107959?gh_jid=107959) | NYC | SWE |
+|[Squarespace](https://www.squarespace.com/careers/jobs/3408877) | NYC | SWE |
+|[Western Digital](https://jobs.smartrecruiters.com/WesternDigital/743999770489869-software-engineering-new-college-grad-pursuing-bachelor-of-science-) | San Jose, CA | SWE |
+|[TikTok](https://careers.tiktok.com/position/7002790917644568845/detail) | MTV, SFO, SEA | SWE |
+|[Better](https://boards.greenhouse.io/better/jobs/3416543) | NYC | |
+|[Sentry](https://boards.greenhouse.io/sentry/jobs/3462843) | SF, Toronto | SWE |
+|[Abnormal Security](https://boards.greenhouse.io/abnormalsecurity/jobs/4708438003) | SF | SWE |
+|[Otter.ai](https://otter.ai/careers?gh_jid=4167329003) | SF | Backend SWE |
+|[HP Enterprise](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Roseville-California/160181802) | Multiple Locations in the US | SWE |
+|[MemSQL](https://boards.greenhouse.io/singlestore/jobs/3401522) | SF | SWE |
+|[Discovery](https://jobs.discovery.com/careers-home/jobs/27025?lang=en-us&previousLocale=en-US) | NY, WA, TN | SWE |
+|[Ebay](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Software-Engineer--Recent-Graduate_R0049006) | Multiple Locations in the US | SWE |
+|[Expedia](https://lifeatexpediagroup.com/jobs?keyword=Graduate%20Software%20Development%20Engineer%20I%20-%20August%202022) | Seattle, Austin, Chicago | SWE |
+|[Audible](https://www.audiblecareers.com/job/newark/software-development-engineer-i/27552/19666722) | Newark, NJ | SWE |
+|[Ocient](https://www.ocient.com/jobs/?gh_jid=4578160003) | Remote (Based in Chicago) | SWE |
+|[Adobe](https://adobe.wd5.myworkdayjobs.com/external_university) | SF, San Jose, Seattle | 2022 University Graduate: [PM](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/San-Francisco/XMLNAME-2022-University-Graduate--Product-Manager_R114940), [SDE](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Seattle/XMLNAME-2022-University-Graduate---Software-Development-Engineer_R114913), [SDE 1](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/San-Jose/XMLNAME-2022-University-Graduate---Software-Development-Engineer-1_R114900) |
