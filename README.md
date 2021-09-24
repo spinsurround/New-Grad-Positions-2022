@@ -70,11 +70,11 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[~~Stripe~~](https://stripe.com/jobs/listing/new-grad-software-engineer/3368453?gh_src=73vnei) | Multiple | |
 |[~~Datadog~~](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE |
 |[~~Quora~~](https://boards.greenhouse.io/quora) | Remote | SWE, ML, Data science |
-|[Benchling](https://www.benchling.com/careers/?gh_jid=3248513#detail) | San Francisco, Boston |  |
-|[ElasticSearch](https://jobs.elastic.co/jobs/engineering/distributed-global/graduate-software-engineer/3342699?lang=en_us#/) | US, Canada, UK & others | SWE |
-|[Figma](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) | SF, NYC | Software Engineer, New Grad (2022) |
-|[Silicon Labs](https://jobs.jobvite.com/silabs/job/odEEgfwv) | Austin, Boston | Software Engineer – New College Graduate  |
-|[Cisco](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Multiple | Software Engineer I (Full Time) United States - No Visa sponsorship |
+|[~~Benchling~~](https://www.benchling.com/careers/?gh_jid=3248513#detail) | San Francisco, Boston |  |
+|[~~ElasticSearch~~](https://jobs.elastic.co/jobs/engineering/distributed-global/graduate-software-engineer/3342699?lang=en_us#/) | US, Canada, UK & others | SWE |
+|[~~Figma~~](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) | SF, NYC | Software Engineer, New Grad (2022) |
+|[~~Silicon Labs~~](https://jobs.jobvite.com/silabs/job/odEEgfwv) | Austin, Boston | Software Engineer – New College Graduate  |
+|[~~Cisco~~](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Multiple | Software Engineer I (Full Time) United States - No Visa sponsorship |
 |[Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE |
 |[Blend](https://boards.greenhouse.io/blend/jobs/4092807004) | SF, NYC, Remote | Software Engineer, New Grad |
