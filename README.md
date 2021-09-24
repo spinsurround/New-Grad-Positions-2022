@@ -75,7 +75,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[~~Figma~~](https://jobs.lever.co/figma/54b745d8-29b1-45cd-8109-63213f524929) | SF, NYC | Software Engineer, New Grad (2022) |
 |[~~Silicon Labs~~](https://jobs.jobvite.com/silabs/job/odEEgfwv) | Austin, Boston | Software Engineer – New College Graduate  |
 |[~~Cisco~~](https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-I-Full-Time-United-States/1337310) | Multiple | Software Engineer I (Full Time) United States - No Visa sponsorship |
-|[Aquatic](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE |
+|[~~Aquatic~~](https://boards.greenhouse.io/aquaticcapitalmanagement) | Chicago | Quant, SWE |
 |[Citadel](https://www.citadel.com/careers/open-positions/positions-for-students/?keyword=Full%20Time) | New York, Chicago | Quant, SWE |
 |[Blend](https://boards.greenhouse.io/blend/jobs/4092807004) | SF, NYC, Remote | Software Engineer, New Grad |
 |[~~Zoom~~](https://zoom.wd5.myworkdayjobs.com/Zoom/1/refreshFacet/318c8bb6f553100021d223d9780d30be) | Remote | [Full Stack](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Full-Stack-Development-Engineer--NEW-GRAD-_R5738), [Frontend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Front-End-Development-Engineer--NEW-GRAD-_R5740), [Backend](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-Back-End-Development-Engineer--NEW-GRAD-_R5741), [Devops](https://zoom.wd5.myworkdayjobs.com/en-US/Zoom/job/Remote--CA---Bay-Area/XMLNAME-2022-DevOps-Engineer--NEW-GRAD-_R5743-1) |
