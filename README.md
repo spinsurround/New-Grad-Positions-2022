@@ -20,7 +20,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675)| New York | Algo Developer, [SWE](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641) |
 |[Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/)| Boston + others | Full-Stack Engineer |
 |[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF | |
-|[VMWare](https://careers.vmware.com/new-graduates/jobs/R2111971?lang=en-us) | Palo Alto, Atlanta | University Launch SWE |
 |[Cruise](https://boards.greenhouse.io/cruise/jobs/2364685) | SF | |
 |[Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/) | Various | Many SWE New Grad positions |
 |[Airtable](https://boards.greenhouse.io/airtable/jobs/5311220002?) | SF | |
@@ -64,8 +63,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[~~PayPal~~](https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-CA/Software-Engineer---Recent-College-Graduate_R0075015) | Multiple Locations |  |
 |[~~Salesforce~~](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/AMTS-Software-Engineer_JR105192?d=cta-nav-sjb-1) | Multiple Locations |  |
 |[~~Affirm~~](https://boards.greenhouse.io/affirm/jobs/4650345003) | Remote |  |
-[Acorns](https://boards.greenhouse.io/acorns/jobs/2589045?gh_jid=2589045) | Irvine, CA | Option to be remote|
-|[~~IBM~~](https://careers.ibm.com/job/13459877/entry-level-associate-developer-commercial-remote/?codes=JB_EPH_JobBoard2021) | Various | |
 |[TIBCO Software](https://hrbrg.co/of6nni) | Chicago | SWE Messaging Engineering Team |
 |[~~Stripe~~](https://stripe.com/jobs/listing/new-grad-software-engineer/3368453?gh_src=73vnei) | Multiple | |
 |[~~Datadog~~](https://www.datadoghq.com/careers/detail/?gh_jid=3339660&gh_src=8363eca61) | New York | SWE |
@@ -83,7 +80,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[~~Point72~~](https://careers.point72.com/CSJobDetail?jobName=2022-cubist-software-engineer-program&jobCode=CSS-0003338) | NYC | Multiple roles |
 |[~~FactSet~~](https://factset.wd1.myworkdayjobs.com/en-US/FactSetCareers/job/New-York-NY-USA/Software-Engineer---Americas-Campus--July-2022-_R12000) | Multiple | |
 |[Ironclad](https://jobs.lever.co/ironcladapp/33179813-c6f6-439d-977d-0a68733d77cf) | SF | |
-|[TD](https://jobs.td.com/en/job/13581190/2022-full-time-analyst-software-engineer-new-york-ny/) | NYC | |
 |[Verkada](https://jobs.lever.co/verkada?department=Engineering&commitment=Full-Time) | San Mateo, CA | [Backend](https://jobs.lever.co/verkada/bec69e5c-a213-42b8-8bfa-bcde4da59623) [Frontend](https://jobs.lever.co/verkada/db65cdcd-d9a4-4c12-ac4e-18938a422601) [Computer Vision](https://jobs.lever.co/verkada/df9e9fcb-2d66-4e8d-8a3c-892a200d470a) [Embedded Systems](https://jobs.lever.co/verkada/df7390d9-b69f-4f3c-a43d-817cbf4af161)|
 |[Rippling](https://www.rippling.com/careers/4627196003?gh_jid=4627196003) | SF | |
 |[Yext](https://www.yext.com/careers/open-positions?facetFilters=%257B%2522c_jobCategory%2522%253A%255B%257B%2522c_jobCategory%2522%253A%257B%2522%2524eq%2522%253A%2522Interns%2520%2526%2520New%2520Grads%2522%257D%257D%255D%252C%2522c_jobLocationShortDescription%2522%253A%255B%255D%257D) | Multiple | Multiple roles |
@@ -98,9 +94,10 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Visa](https://careers.smartrecruiters.com/Visa/university-recruiting) | Multiple | Multiple positions |
 |[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) | 
 |[~~Indeed~~](https://ur-careers-indeed.icims.com/jobs/search?ics_keywords=Grad) | US-Remote | SWE |
+|[Gem](https://www.gem.com/company/careers#jobboard) | San Francisco | New Grad Product Engineer (Rotation) |
 |[Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) | Miami, Toronto | SWE, Leadership |
 |[Pinterest](https://www.pinterestcareers.com/job-search-results/?keyword=university%20grad%20swe&primary_category=University&job_type=Regular) | San Francisco, Palo Alto, Seattle, Toronto | SWE |
-|[Liberty Mutual](https://jobs.libertymutualgroup.com/job/13586540/2022-techstart-full-time-program-portsmouth-nh/) | Various | TechStart Full-Time Program | 
+|[Liberty Mutual](https://jobs.libertymutualgroup.com/job/13586540/2022-techstart-full-time-program-portsmouth-nh/) | Various | TechStart Full-Time Program |
 |[Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=8473) | NYC | SWE |
 |[Accenture](https://www.accenture.com/us-en/careers/life-at-accenture/entry-level) | Multiple | Development programs - no separate links, click "Create Your Profile" |
 |[Becton Dickinson](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/BD-Software-Development-Program--SDP-_R-410769-1) | CA, NJ, MD | Software Development Program |
@@ -131,3 +128,22 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Audible](https://www.audiblecareers.com/job/newark/software-development-engineer-i/27552/19666722) | Newark, NJ | SWE |
 |[Ocient](https://www.ocient.com/jobs/?gh_jid=4578160003) | Remote (Based in Chicago) | SWE |
 |[Adobe](https://adobe.wd5.myworkdayjobs.com/external_university) | SF, San Jose, Seattle | 2022 University Graduate: [PM](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/San-Francisco/XMLNAME-2022-University-Graduate--Product-Manager_R114940), [SDE](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/Seattle/XMLNAME-2022-University-Graduate---Software-Development-Engineer_R114913), [SDE 1](https://adobe.wd5.myworkdayjobs.com/en-US/external_university/job/San-Jose/XMLNAME-2022-University-Graduate---Software-Development-Engineer-1_R114900) |
+|[Amdocs](https://jobs.amdocs.com/job/Plano-Software-Developer-Graduate-TX-75023/793531000/) | US, CA, Others | SWE, Software Test Engineer, Others ([Full list here](https://jobs.amdocs.com/search/?createNewAlert=false&q=Graduate&locationsearch=)) |
+|[GD Mission Systems](https://gdmissionsystems.com/careers/entry-level-software-engineer-san-jose-ca-usa-2021-48108-opportunity) | CA, VA, PA, others | SWE, EE, others ([Full list here](https://gdmissionsystems.com/careers/job-search?state=eyJ3aGF0IjoiZW50cnkgbGV2ZWwiLCJ3aGVyZSI6IiIsIklzVGVzdE1vZGUiOiIiLCJsYXRpdHVkZSI6bnVsbCwibG9uZ2l0dWRlIjpudWxsLCJhZGRyZXNzIjoiW10iLCJmYWNldHMiOltdfQ%3D%3D)) |
+|[GSK](https://jobs.gsk.com/en-gb/jobs/305824?lang=en-us&previousLocale=en-GB) | US, UK | Leader Program in Tech/Engineering/Finance/Supply Chain ([Full list here](https://jobs.gsk.com/en-gb/jobs/305824?lang=en-us&previousLocale=en-GB)) |
+|[Bloomberg](https://careers.bloomberg.com/job/detail/92290) | NY, Princeton, London, Singapore, Others | [SWE - NY](https://careers.bloomberg.com/job/detail/92290), [Data Analyst - Princeton](https://careers.bloomberg.com/job/detail/93660), [Financial Research Data Analyst - NY](https://careers.bloomberg.com/job/detail/93661) ([Full list here](https://careers.bloomberg.com/job/search?el=Students+and+Recent+Graduates)) |
+|[Broadway Technology](https://jobs.lever.co/broadwaytechnology/6824e17d-ac84-45f3-b269-46e7d5e2d3da) | Austin, NY, Canada | SWE, Consultant ([Full list here](https://jobs.lever.co/broadwaytechnology?department=Student)) |
+|[Lenovo](https://jobs.lenovo.com/en_US/careers/JobDetail/Advisory-Cloud-Engineer-Global-Future-Leaders/29204) | US, China | Global Future Leaders Program - ([Cloud Engineer](https://jobs.lenovo.com/en_US/careers/JobDetail/Advisory-Cloud-Engineer-Global-Future-Leaders/29204), [Software Product Manager](https://jobs.lenovo.com/en_US/careers/JobDetail/Software-Product-Manager-Global-Future-Leaders/28401), [others](https://jobs.lenovo.com/en_US/careers/SearchJobsUniversity)) |
+|[SingleStore](https://boards.greenhouse.io/singlestore/jobs/3437007) | Raleigh, Seattle, SF, Lisbon (Portugal) | SWE |
+|[Modern Treasury](https://jobs.ashbyhq.com/moderntreasury/dc9bcfe8-64ef-4377-ad74-0cdbca3be694) | SF, New York, Remote | SWE |
+|[Eightfold AI](https://app.eightfold.ai/careers/job?domain=volkscience.com&pid=68728335636) | Santa Clara | SWE |
+|[Old Mission Capitol](https://www.oldmissioncapital.com/careers/?gh_jid=4371488003) | Chicago | SWE, [Quant Trader](https://www.oldmissioncapital.com/careers/?gh_jid=4454178003)
+|[Flexport](https://boards.greenhouse.io/flexport/jobs/3479879?s=LinkedIn&source=LinkedIn) | Bellevue, Chicago (High Priority), San Francisco | SWE |
+|[NetApp](https://netapp.eightfold.ai/careers?query=NetApp%20Emerging%20Talent%20-%20Software%20%26%20QA%20Engineer) | Multiple Locations in the US | SWE, QA |
+|[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/38c17a4c-60d1-4333-b666-22632c1ce39b-2022-engineering-new-graduates-and-early-career-north-america-latin-america) | SF | Various Engineer Positions |
+|[Netflix](https://jobs.netflix.com/jobs/127236667) | Los Gatos, California | New Grad, Software Engineer |
+|[Square](https://www.smartrecruiters.com/Square/743999776502570) | SF, Remote | Software Engineer (New Grad) |
+|[Atlassian](https://www.atlassian.com/company/careers/detail/620921f2-c09c-4d3e-8bd2-f8781fbcc276) | CA, Remote  | SWE, PM, Site Reliability Eng, Data Scientist ([Full list here](https://www.atlassian.com/company/careers/students))|
+|[Gusto](https://boards.greenhouse.io/gusto/jobs/3499021) | SF, NYC, Denver | No sponsorship |
+|[Google](https://careers.google.com/jobs/results/139295856164512454-software-engineer-early-career-campus/) | US, [Canada](https://careers.google.com/jobs/results/74898009881486022-software-developer-early-career-campus/) | SWE, [Front End](https://careers.google.com/jobs/results/91669597192626886-ux-engineer-front-end-early-career/) |
+|[Gap Inc](https://www.gapinc.com/en-us/jobs/37/63/gaptech-engineering-rotational-program-2) | San Francisco, Columbus, Atlanta, Dallas | SWE |
