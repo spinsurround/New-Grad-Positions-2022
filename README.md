@@ -98,7 +98,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Restaurant Brands International](https://careers.rbi.com/global/en/c/campus-jobs) | Miami, Toronto | SWE, Leadership |
 |[~~Pinterest~~](https://www.pinterestcareers.com/job-search-results/?keyword=university%20grad%20swe&primary_category=University&job_type=Regular) | San Francisco, Palo Alto, Seattle, Toronto | SWE |
 |[Liberty Mutual](https://jobs.libertymutualgroup.com/job/13586540/2022-techstart-full-time-program-portsmouth-nh/) | Various | TechStart Full-Time Program |
-|[Two Sigma](https://careers.twosigma.com/careers/Careers?jobId=8473) | NYC | SWE |
+|[~~Two Sigma~~](https://careers.twosigma.com/careers/Careers?jobId=8473) | NYC | SWE |
 |[Accenture](https://www.accenture.com/us-en/careers/life-at-accenture/entry-level) | Multiple | Development programs - no separate links, click "Create Your Profile" |
 |[Becton Dickinson](https://bdx.wd1.myworkdayjobs.com/EXTERNAL_CAREER_SITE_USA/job/USA-CA---San-Diego-Bldg-AB/BD-Software-Development-Program--SDP-_R-410769-1) | CA, NJ, MD | Software Development Program |
 |[Vise](https://boards.greenhouse.io/viseai/jobs/4695495003) | NY | SWE |
