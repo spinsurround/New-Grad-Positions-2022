@@ -15,8 +15,8 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |---|---|-------------|
 |[Akuna Capital](https://akunacapital.com/careers?experience=junior&department=development#careers) | Chicago | Various Junior Developer Positions |
 |[Amazon](https://www.amazon.jobs/en/jobs/1558079/software-development-engineer-2022-us?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid) | US | New Grad SDE |
+|[Arrowstreet Capital](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Arrowstreet/details/XMLNAME-2022-Technology-Rotational-Development-Program_R523) | Boston | SWE Technology Rotational Development Program |
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/5311286002/) | NYC | |
-[Wish](https://jobs.smartrecruiters.com/Wish/743999745330820)| SF | [Other positions available](https://www.wish.com/careers/jobs) |
 [Hudson River Trading](https://www.hudsonrivertrading.com/careers/job/?gh_jid=82675)| New York | Algo Developer, [SWE](https://www.hudsonrivertrading.com/careers/job/?gh_jid=86641) |
 |[Fidelity](https://jobs.fidelity.com/job-details/13162494/2021-2022-undergraduates-full-stack-engineer-merrimack-nh/)| Boston + others | Full-Stack Engineer |
 |[Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | SF | |
@@ -119,7 +119,6 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Better](https://boards.greenhouse.io/better/jobs/3416543) | NYC | |
 |[Sentry](https://boards.greenhouse.io/sentry/jobs/3462843) | SF, Toronto | SWE |
 |[Abnormal Security](https://boards.greenhouse.io/abnormalsecurity/jobs/4708438003) | SF | SWE |
-|[Otter.ai](https://otter.ai/careers?gh_jid=4167329003) | SF | Backend SWE |
 |[HP Enterprise](https://careers.hpe.com/job/Hewlett-Packard-Enterprise-Roseville-California/160181802) | Multiple Locations in the US | SWE |
 |[MemSQL](https://boards.greenhouse.io/singlestore/jobs/3401522) | SF | SWE |
 |[Discovery](https://jobs.discovery.com/careers-home/jobs/27025?lang=en-us&previousLocale=en-US) | NY, WA, TN | SWE |
@@ -147,3 +146,5 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/3499021) | SF, NYC, Denver | No sponsorship |
 |[Google](https://careers.google.com/jobs/results/139295856164512454-software-engineer-early-career-campus/) | US, [Canada](https://careers.google.com/jobs/results/74898009881486022-software-developer-early-career-campus/) | SWE, [Front End](https://careers.google.com/jobs/results/91669597192626886-ux-engineer-front-end-early-career/) |
 |[Gap Inc](https://www.gapinc.com/en-us/jobs/37/63/gaptech-engineering-rotational-program-2) | San Francisco, Columbus, Atlanta, Dallas | SWE |
+|[Aura](https://careers-aura.icims.com/jobs/1479/platform-engineer/job) | Remote | SWE/Platform Engineer |
+|[Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Associate-Software-Engineer--New-Grad----Slack_JR117902-2) | SF | SWE |
