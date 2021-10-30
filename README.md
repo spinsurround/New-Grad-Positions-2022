@@ -86,7 +86,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[~~AnyScale~~](https://jobs.lever.co/anyscale/207867b9-8780-4e90-a82c-d8dd46ecba12) | SF| |
 |[~~Uber~~](https://university-uber.icims.com/jobs/106097/new-grad-software-engineer-backend/job) | SF| Software Engineer, Back-End |
 |[~~DoorDash~~](https://boards.greenhouse.io/doordash/jobs/3393632?gh_jid=3393632) | Multiple | Software Engineer, New Grad (Winter 2021/Spring 2022) |
-|[Blackstone](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers) | NYC, London + Others | SWE, Analyst, others |
+|[~~Blackstone~~](https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers) | NYC, London + Others | SWE, Analyst, others |
 |[~~Twilio~~](https://www.twilio.com/company/jobs?department=students#open-positions) | SF, Denver | SWE, others |
 |[~~Workday~~](https://workday.wd5.myworkdayjobs.com/en-US/Workday_University_Careers) | Multiple | Multiple |
 |[EAB](https://eab.com/careers/open-positions/) | Multiple | Multiple "Associate" positions starting Summer 2022 |
@@ -140,11 +140,11 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 |[Flexport](https://boards.greenhouse.io/flexport/jobs/3479879?s=LinkedIn&source=LinkedIn) | Bellevue, Chicago (High Priority), San Francisco | SWE |
 |[NetApp](https://netapp.eightfold.ai/careers?query=NetApp%20Emerging%20Talent%20-%20Software%20%26%20QA%20Engineer) | Multiple Locations in the US | SWE, QA |
 |[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/38c17a4c-60d1-4333-b666-22632c1ce39b-2022-engineering-new-graduates-and-early-career-north-america-latin-america) | SF | Various Engineer Positions |
-|[Netflix](https://jobs.netflix.com/jobs/127236667) | Los Gatos, California | New Grad, Software Engineer |
-|[Square](https://www.smartrecruiters.com/Square/743999776502570) | SF, Remote | Software Engineer (New Grad) |
+|[~~Netflix~~](https://jobs.netflix.com/jobs/127236667) | Los Gatos, California | New Grad, Software Engineer |
+|[~~Square~~](https://www.smartrecruiters.com/Square/743999776502570) | SF, Remote | Software Engineer (New Grad) |
 |[Atlassian](https://www.atlassian.com/company/careers/detail/620921f2-c09c-4d3e-8bd2-f8781fbcc276) | CA, Remote  | SWE, PM, Site Reliability Eng, Data Scientist ([Full list here](https://www.atlassian.com/company/careers/students))|
 |[Gusto](https://boards.greenhouse.io/gusto/jobs/3499021) | SF, NYC, Denver | No sponsorship |
-|[Google](https://careers.google.com/jobs/results/139295856164512454-software-engineer-early-career-campus/) | US, [Canada](https://careers.google.com/jobs/results/74898009881486022-software-developer-early-career-campus/) | SWE, [Front End](https://careers.google.com/jobs/results/91669597192626886-ux-engineer-front-end-early-career/) |
+|[~~Google~~](https://careers.google.com/jobs/results/139295856164512454-software-engineer-early-career-campus/) | US, [Canada](https://careers.google.com/jobs/results/74898009881486022-software-developer-early-career-campus/) | SWE, [Front End](https://careers.google.com/jobs/results/91669597192626886-ux-engineer-front-end-early-career/) |
 |[Gap Inc](https://www.gapinc.com/en-us/jobs/37/63/gaptech-engineering-rotational-program-2) | San Francisco, Columbus, Atlanta, Dallas | SWE |
 |[Aura](https://careers-aura.icims.com/jobs/1479/platform-engineer/job) | Remote | SWE/Platform Engineer |
-|[Slack](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Associate-Software-Engineer--New-Grad----Slack_JR117902-2) | SF | SWE |
+|[~~Slack~~](https://salesforce.wd1.myworkdayjobs.com/en-US/Slack/job/California---San-Francisco/Associate-Software-Engineer--New-Grad----Slack_JR117902-2) | SF | SWE |
